@@ -1,7 +1,7 @@
 <tr>
 										<td>
 				<table width="793" cellspacing="0" cellpadding="14" style="padding-left: 4px; padding-right: 4px; padding-top: 1px; padding-bottom: 1px">
-					<tbody><tr>
+					<tr>
 						<td colspan="3" bgcolor="#962828">
 						<span style="letter-spacing: 2px">
 						<font face="Arial" size="4">Word List</font></span></td>
@@ -15,7 +15,7 @@
 						Redn</span></font></td>
 						<td bgcolor="#412341" width="265">
 						<span style="letter-spacing: 1px"><font face="Arial">
-						רעדן</font></span></td>
+						&#1512;&#1506;&#1491;&#1503;</font></span></td>
 					</tr>
 					<tr>
 						<td bgcolor="#412341" width="264">
@@ -26,7 +26,7 @@
 						Veln</span></font></td>
 						<td bgcolor="#412341" width="265">
 						<span style="letter-spacing: 1px"><font face="Arial">
-						וועלן</font></span></td>
+						&#1493;&#1493;&#1506;&#1500;&#1503;</font></span></td>
 					</tr>
 					<tr>
 						<td bgcolor="#412341" width="264">
@@ -37,7 +37,7 @@
 						Farshteyn</span></font></td>
 						<td bgcolor="#412341" width="265">
 						<span style="letter-spacing: 1px"><font face="Arial">
-						פאַרשטיין</font></span></td>
+						&#1508;&#1488;&#1463;&#1512;&#1513;&#1496;&#1497;&#1497;&#1503;</font></span></td>
 					</tr>
 					<tr>
 						<td bgcolor="#412341" width="264">
@@ -46,7 +46,7 @@
 						<td bgcolor="#412341" width="264">
 						<font face="Arial"><span style="letter-spacing: 1px">Mir</span></font></td>
 						<td bgcolor="#412341" width="265">
-						<span style="letter-spacing: 1px"><font face="Arial">מיר</font></span></td>
+						<span style="letter-spacing: 1px"><font face="Arial">&#1502;&#1497;&#1512;</font></span></td>
 					</tr>
 					<tr>
 						<td bgcolor="#412341" width="264">
@@ -54,7 +54,7 @@
 						<td bgcolor="#412341" width="264">
 						<font face="Arial"><span style="letter-spacing: 1px">Ikh</span></font></td>
 						<td bgcolor="#412341" width="265">
-						<span style="letter-spacing: 1px"><font face="Arial">איך</font></span></td>
+						<span style="letter-spacing: 1px"><font face="Arial">&#1488;&#1497;&#1498;</font></span></td>
 					</tr>
 					<tr>
 						<td bgcolor="#412341" width="264">
@@ -63,7 +63,7 @@
 						<td bgcolor="#412341" width="264">
 						<font face="Arial"><span style="letter-spacing: 1px">Zey</span></font></td>
 						<td bgcolor="#412341" width="265">
-						<span style="letter-spacing: 1px"><font face="Arial">זיי</font></span></td>
+						<span style="letter-spacing: 1px"><font face="Arial">&#1494;&#1497;&#1497;</font></span></td>
 					</tr>
 					<tr>
 						<td bgcolor="#412341" width="264">
@@ -73,7 +73,7 @@
 						Nisht</font></span></td>
 						<td bgcolor="#412341" width="265">
 						<span style="letter-spacing: 1px"><font face="Arial">
-						נישט</font></span></td>
+						&#1504;&#1497;&#1513;&#1496;</font></span></td>
 					</tr>
 					<tr>
 						<td bgcolor="#412341" width="264">
@@ -83,7 +83,7 @@
 						<font face="Arial"><span style="letter-spacing: 1px">
 						Bukh</span></font></td>
 						<td bgcolor="#412341" width="265">
-						<span style="letter-spacing: 1px"><font face="Arial">בוך</font></span></td>
+						<span style="letter-spacing: 1px"><font face="Arial">&#1489;&#1493;&#1498;</font></span></td>
 					</tr>
 					<tr>
 						<td bgcolor="#412341" width="264">
@@ -91,7 +91,7 @@
 						<td bgcolor="#412341" width="264">
 						<span style="letter-spacing: 1px"><font face="Arial">A</font></span></td>
 						<td bgcolor="#412341" width="265">
-						<span style="letter-spacing: 1px"><font face="Arial">אַ</font></span></td>
+						<span style="letter-spacing: 1px"><font face="Arial">&#1488;&#1463;</font></span></td>
 					</tr>
 					<tr>
 						<td bgcolor="#412341" width="264">
@@ -99,7 +99,7 @@
 						<td bgcolor="#412341" width="264">
 						<font face="Arial"><span style="letter-spacing: 1px">Un</span></font></td>
 						<td bgcolor="#412341" width="265">
-						<span style="letter-spacing: 1px"><font face="Arial">און</font></span></td>
+						<span style="letter-spacing: 1px"><font face="Arial">&#1488;&#1493;&#1503;</font></span></td>
 					</tr>
 					<tr>
 						<td bgcolor="#412341" width="264">
@@ -110,18 +110,15 @@
 						Epes</span></font></td>
 						<td bgcolor="#412341" width="265">
 						<span style="letter-spacing: 1px"><font face="Arial">
-						עפעס</font></span></td>
+						&#1506;&#1508;&#1506;&#1505;</font></span></td>
 					</tr>
-					</tbody></table>
+					</table>
 										</td>
 									</tr>
-									
-									
-									
 									<tr>
 										<td>
 				<table width="100%" cellspacing="0" cellpadding="14" style="padding-left: 4px; padding-right: 4px; padding-top: 1px; padding-bottom: 1px">
-					<tbody><tr>
+					<tr>
 						<td colspan="3" bgcolor="#962828">
 						<span style="letter-spacing: 2px">
 						<font face="Arial" size="4">Key Phrases</font></span></td>
@@ -136,15 +133,15 @@
 						<font face="Arial">Zey redn</font></span></td>
 						<td bgcolor="#412341" width="30%">
 						<span style="letter-spacing: 1px">
-						<font face="Arial">זיי רעדן</font></span></td>
+						<font face="Arial">&#1494;&#1497;&#1497; &#1512;&#1506;&#1491;&#1503;</font></span></td>
 					</tr>
 					<tr>
 						<td bgcolor="#000000" colspan="3">
 						<span style="letter-spacing: 1px">
 						<font face="Arial" color="#FFFFFF">In English, people 
-						say "I am speaking, I am eating, I am doing." In Yiddish 
+						say &quot;I am speaking, I am eating, I am doing.&quot; In Yiddish 
 						this does not exist. The normal present tense is used 
-						with "I am speaking."</font></span></td>
+						with &quot;I am speaking.&quot;</font></span></td>
 					</tr>
 					<tr>
 						<td bgcolor="#412341" width="32%">
@@ -155,7 +152,7 @@
 						<font face="Arial">Zey redn a shprakh</font></span></td>
 						<td bgcolor="#412341" width="30%">
 						<span style="letter-spacing: 1px">
-						<font face="Arial">זיי רעדן אַ שפּראַך</font></span></td>
+						<font face="Arial">&#1494;&#1497;&#1497; &#1512;&#1506;&#1491;&#1503; &#1488;&#1463; &#1513;&#1508;&#1468;&#1512;&#1488;&#1463;&#1498;</font></span></td>
 					</tr>
 					<tr>
 						<td bgcolor="#412341" width="32%">
@@ -166,8 +163,8 @@
 						veln redn</font></span></td>
 						<td bgcolor="#412341" width="30%">
 						<font face="Arial">
-						<span style="font-size: a; letter-spacing:1px">מיר ווילן 
-						רעדן</span></font></td>
+						<span style="font-size: a; letter-spacing:1px">&#1502;&#1497;&#1512; &#1493;&#1493;&#1497;&#1500;&#1503; 
+						&#1512;&#1506;&#1491;&#1503;</span></font></td>
 					</tr>
 					<tr>
 						<td bgcolor="#412341" width="32%">
@@ -179,7 +176,7 @@
 						<font face="Arial">Ikh farshtey nisht yiddish</font></span></td>
 						<td bgcolor="#412341" width="30%">
 						<span style="letter-spacing: 1px">
-						<font face="Arial">איך פאַרשטיי נישט ייִדיש</font></span></td>
+						<font face="Arial">&#1488;&#1497;&#1498; &#1508;&#1488;&#1463;&#1512;&#1513;&#1496;&#1497;&#1497; &#1504;&#1497;&#1513;&#1496; &#1497;&#1497;&#1460;&#1491;&#1497;&#1513;</font></span></td>
 					</tr>
 					<tr>
 						<td bgcolor="#412341" width="32%">
@@ -191,13 +188,13 @@
 						<font face="Arial">Ikh red nisht english</font></span></td>
 						<td bgcolor="#412341" width="30%">
 						<span style="letter-spacing: 1px">
-						<font face="Arial">איך רעד נישט ענגליש</font></span></td>
+						<font face="Arial">&#1488;&#1497;&#1498; &#1512;&#1506;&#1491; &#1504;&#1497;&#1513;&#1496; &#1506;&#1504;&#1490;&#1500;&#1497;&#1513;</font></span></td>
 					</tr>
 					<tr>
 						<td bgcolor="#000000" width="96%" colspan="3">
 						<span style="letter-spacing: 1px">
-						<font face="Arial" color="#FFFFFF">"I do not" in Yiddish 
-						is just one word "Nisht." It comes after the verb. </font></span></td>
+						<font face="Arial" color="#FFFFFF">&quot;I do not&quot; in Yiddish 
+						is just one word &quot;Nisht.&quot; It comes after the verb. </font></span></td>
 					</tr>
 					<tr>
 						<td bgcolor="#412341" width="32%">
@@ -228,9 +225,9 @@
 						farsteyn english</font></span></td>
 						<td bgcolor="#412341" width="30%">
 						<span style="letter-spacing: 1px">
-						<font face="Arial">דוד <b>
-						<font color="#7D7DFF">און</font></b> רחל פֿאַרשטיין 
-						ענגליש</font></span></td>
+						<font face="Arial">&#1491;&#1493;&#1491; <b>
+						<font color="#7D7DFF">&#1488;&#1493;&#1503;</font></b> &#1512;&#1495;&#1500; &#1508;&#1471;&#1488;&#1463;&#1512;&#1513;&#1496;&#1497;&#1497;&#1503; 
+						&#1506;&#1504;&#1490;&#1500;&#1497;&#1513;</font></span></td>
 					</tr>
 					<tr>
 						<td bgcolor="#412341" width="32%">
@@ -245,8 +242,8 @@
 						Yiddish</font></span></td>
 						<td bgcolor="#412341" width="30%">
 						<span style="letter-spacing: 1px">
-						<font face="Arial">חנה <b>
-						<font color="#7D7DFF">און</font></b> סנדר רעדן ייִדיש</font></span></td>
+						<font face="Arial">&#1495;&#1504;&#1492; <b>
+						<font color="#7D7DFF">&#1488;&#1493;&#1503;</font></b> &#1505;&#1504;&#1491;&#1512; &#1512;&#1506;&#1491;&#1503; &#1497;&#1497;&#1460;&#1491;&#1497;&#1513;</font></span></td>
 					</tr>
 					<tr>
 						<td bgcolor="#000000" width="96%" colspan="3">
@@ -254,44 +251,41 @@
 						<font face="Arial" color="#FFFFFF">Many common names 
 						exist with a Yiddish translation. </font></span></td>
 					</tr>
-				</tbody></table>
+				</table>
 										</td>
 									</tr>
-									
-									
-									
 									<tr>
 										<td>
 				<table width="100%" cellspacing="0" cellpadding="9" style="padding-left: 4px; padding-right: 4px; padding-top: 1px; padding-bottom: 1px">
-					<tbody><tr>
+					<tr>
 						<td bgcolor="#962828"><span style="letter-spacing: 2px">
 						<font face="Arial" size="4" color="#FFFFFF">Grammar</font></span></td>
 					</tr>
 					<tr>
 						<td bgcolor="#412341">
 						<table border="0" width="100%" cellspacing="0" cellpadding="8">
-							<tbody><tr>
+							<tr>
 								<td>
 						<span style="letter-spacing: 1px">
 						<font face="Arial" color="#FFFFFF">&nbsp;</font><font face="Wingdings" color="#FFFFFF">è
 						</font><font face="Arial" color="#FFFFFF">The infinitive 
 						of every word in Yiddish always end with the letter <b>
-						"N"</b> .
+						&quot;N&quot;</b> .
 						</font></span>
 						<p><span style="letter-spacing: 1px"><font face="Arial">&nbsp;</font><font face="Wingdings" color="#FFFFFF">è
-						</font><font face="Arial">To make the verb with "i": 
-						Remove the <b>"N"</b></font></span></p>
+						</font><font face="Arial">To make the verb with &quot;i&quot;: 
+						Remove the <b>&quot;N&quot;</b></font></span></p>
 						<p><span style="letter-spacing: 1px"><font face="Arial">&nbsp;</font><font face="Wingdings" color="#FFFFFF">è
-						</font><font face="Arial">To make the verb with "we" or 
-						"they." Do nothing. Its the same as the infinitive.
+						</font><font face="Arial">To make the verb with &quot;we&quot; or 
+						&quot;they.&quot; Do nothing. Its the same as the infinitive.
 						</font></span></p>
 						<p><span style="letter-spacing: 1px"><font face="Arial">
-						See table below:</font></span></p></td>
+						See table below:</font></span></td>
 							</tr>
 							<tr>
 								<td>
 						<table border="0" width="100%" cellspacing="0" cellpadding="12">
-							<tbody><tr>
+							<tr>
 								<td bgcolor="#000000">
 								<span style="letter-spacing: 1px">
 								<font color="#FFFFFF" face="Arial">Infinitive</font></span></td>
@@ -333,12 +327,10 @@
 								<span style="letter-spacing: 1px">
 								<font color="#FFFFFF" face="Arial">Zey veln</font></span></td>
 							</tr>
-							</tbody></table>
+							</table>
 								</td>
 							</tr>
-						</tbody></table>
+						</table>
 						</td>
 					</tr>
-					</tbody></table>
-										</td>
-									</tr>
+					</table>

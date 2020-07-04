@@ -1,129 +1,3 @@
----
-title: Another Sample Page
-published: true
----
-
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
-
-[Link to another page](another-page).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# [](#header-1)Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## [](#header-2)Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### [](#header-3)Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### [](#header-4)Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### [](#header-5)Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### [](#header-6)Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
-
-
 <tr>
 										<td>
 				<table width="793" cellspacing="0" cellpadding="14" style="padding-left: 4px; padding-right: 4px; padding-top: 1px; padding-bottom: 1px">
@@ -237,6 +111,233 @@ The final element.
 						<td bgcolor="#412341" width="265">
 						<span style="letter-spacing: 1px"><font face="Arial">
 						עפעס</font></span></td>
+					</tr>
+					</tbody></table>
+										</td>
+									</tr>
+									
+									
+									
+									<tr>
+										<td>
+				<table width="100%" cellspacing="0" cellpadding="14" style="padding-left: 4px; padding-right: 4px; padding-top: 1px; padding-bottom: 1px">
+					<tbody><tr>
+						<td colspan="3" bgcolor="#962828">
+						<span style="letter-spacing: 2px">
+						<font face="Arial" size="4">Key Phrases</font></span></td>
+					</tr>
+					<tr>
+						<td bgcolor="#412341">
+						<span style="letter-spacing: 1px">
+						<font color="#FFFFFF" face="Arial">They speak (They are 
+						speaking)</font></span></td>
+						<td bgcolor="#412341" width="30%">
+						<span style="letter-spacing: 1px">
+						<font face="Arial">Zey redn</font></span></td>
+						<td bgcolor="#412341" width="30%">
+						<span style="letter-spacing: 1px">
+						<font face="Arial">זיי רעדן</font></span></td>
+					</tr>
+					<tr>
+						<td bgcolor="#000000" colspan="3">
+						<span style="letter-spacing: 1px">
+						<font face="Arial" color="#FFFFFF">In English, people 
+						say "I am speaking, I am eating, I am doing." In Yiddish 
+						this does not exist. The normal present tense is used 
+						with "I am speaking."</font></span></td>
+					</tr>
+					<tr>
+						<td bgcolor="#412341" width="32%">
+						<span style="letter-spacing: 1px">
+						<font color="#FFFFFF" face="Arial">They speak a language</font></span></td>
+						<td bgcolor="#412341" width="30%">
+						<span style="letter-spacing: 1px">
+						<font face="Arial">Zey redn a shprakh</font></span></td>
+						<td bgcolor="#412341" width="30%">
+						<span style="letter-spacing: 1px">
+						<font face="Arial">זיי רעדן אַ שפּראַך</font></span></td>
+					</tr>
+					<tr>
+						<td bgcolor="#412341" width="32%">
+						<span style="letter-spacing: 1px"><font face="Arial">We 
+						want to speak</font></span></td>
+						<td bgcolor="#412341" width="30%">
+						<span style="letter-spacing: 1px"><font face="Arial">Mir 
+						veln redn</font></span></td>
+						<td bgcolor="#412341" width="30%">
+						<font face="Arial">
+						<span style="font-size: a; letter-spacing:1px">מיר ווילן 
+						רעדן</span></font></td>
+					</tr>
+					<tr>
+						<td bgcolor="#412341" width="32%">
+						<span style="letter-spacing: 1px">
+						<font color="#FFFFFF" face="Arial">I do not understand 
+						Yiddish</font></span></td>
+						<td bgcolor="#412341" width="30%">
+						<span style="letter-spacing: 1px">
+						<font face="Arial">Ikh farshtey nisht yiddish</font></span></td>
+						<td bgcolor="#412341" width="30%">
+						<span style="letter-spacing: 1px">
+						<font face="Arial">איך פאַרשטיי נישט ייִדיש</font></span></td>
+					</tr>
+					<tr>
+						<td bgcolor="#412341" width="32%">
+						<span style="letter-spacing: 1px">
+						<font color="#FFFFFF" face="Arial">I do not speak 
+						English</font></span></td>
+						<td bgcolor="#412341" width="30%">
+						<span style="letter-spacing: 1px">
+						<font face="Arial">Ikh red nisht english</font></span></td>
+						<td bgcolor="#412341" width="30%">
+						<span style="letter-spacing: 1px">
+						<font face="Arial">איך רעד נישט ענגליש</font></span></td>
+					</tr>
+					<tr>
+						<td bgcolor="#000000" width="96%" colspan="3">
+						<span style="letter-spacing: 1px">
+						<font face="Arial" color="#FFFFFF">"I do not" in Yiddish 
+						is just one word "Nisht." It comes after the verb. </font></span></td>
+					</tr>
+					<tr>
+						<td bgcolor="#412341" width="32%">
+						<font face="Arial">We want something</font></td>
+						<td bgcolor="#412341" width="30%">
+						<font face="Arial">Mir veln epes</font></td>
+						<td bgcolor="#412341" width="30%">
+						&nbsp;</td>
+					</tr>
+					<tr>
+						<td bgcolor="#412341" width="32%">
+						<font face="Arial">I want something</font></td>
+						<td bgcolor="#412341" width="30%">
+						<font face="Arial">Ikh vel epes</font></td>
+						<td bgcolor="#412341" width="30%">
+						&nbsp;</td>
+					</tr>
+					<tr>
+						<td bgcolor="#412341" width="32%">
+						<span style="letter-spacing: 1px">
+						<font color="#FFFFFF" face="Arial">David </font><b>
+						<font color="#7D7DFF" face="Arial">and</font></b><font color="#FFFFFF" face="Arial"> 
+						Rachel understand English</font></span></td>
+						<td bgcolor="#412341" width="30%">
+						<span style="letter-spacing: 1px">
+						<font face="Arial">
+						Dovid <b><font color="#7D7DFF">un</font></b> Rokhl 
+						farsteyn english</font></span></td>
+						<td bgcolor="#412341" width="30%">
+						<span style="letter-spacing: 1px">
+						<font face="Arial">דוד <b>
+						<font color="#7D7DFF">און</font></b> רחל פֿאַרשטיין 
+						ענגליש</font></span></td>
+					</tr>
+					<tr>
+						<td bgcolor="#412341" width="32%">
+						<span style="letter-spacing: 1px">
+						<font color="#FFFFFF" face="Arial">Hannah </font>
+						<font color="#7D7DFF" face="Arial"><b>and</b></font><font color="#FFFFFF" face="Arial"> 
+						Alex speak Yiddish</font></span></td>
+						<td bgcolor="#412341" width="30%">
+						<span style="letter-spacing: 1px">
+						<font face="Arial">
+						Khane <font color="#7D7DFF"><b>un</b></font> Sender redn 
+						Yiddish</font></span></td>
+						<td bgcolor="#412341" width="30%">
+						<span style="letter-spacing: 1px">
+						<font face="Arial">חנה <b>
+						<font color="#7D7DFF">און</font></b> סנדר רעדן ייִדיש</font></span></td>
+					</tr>
+					<tr>
+						<td bgcolor="#000000" width="96%" colspan="3">
+						<span style="letter-spacing: 1px">
+						<font face="Arial" color="#FFFFFF">Many common names 
+						exist with a Yiddish translation. </font></span></td>
+					</tr>
+				</tbody></table>
+										</td>
+									</tr>
+									
+									
+									
+									<tr>
+										<td>
+				<table width="100%" cellspacing="0" cellpadding="9" style="padding-left: 4px; padding-right: 4px; padding-top: 1px; padding-bottom: 1px">
+					<tbody><tr>
+						<td bgcolor="#962828"><span style="letter-spacing: 2px">
+						<font face="Arial" size="4" color="#FFFFFF">Grammar</font></span></td>
+					</tr>
+					<tr>
+						<td bgcolor="#412341">
+						<table border="0" width="100%" cellspacing="0" cellpadding="8">
+							<tbody><tr>
+								<td>
+						<span style="letter-spacing: 1px">
+						<font face="Arial" color="#FFFFFF">&nbsp;</font><font face="Wingdings" color="#FFFFFF">è
+						</font><font face="Arial" color="#FFFFFF">The infinitive 
+						of every word in Yiddish always end with the letter <b>
+						"N"</b> .
+						</font></span>
+						<p><span style="letter-spacing: 1px"><font face="Arial">&nbsp;</font><font face="Wingdings" color="#FFFFFF">è
+						</font><font face="Arial">To make the verb with "i": 
+						Remove the <b>"N"</b></font></span></p>
+						<p><span style="letter-spacing: 1px"><font face="Arial">&nbsp;</font><font face="Wingdings" color="#FFFFFF">è
+						</font><font face="Arial">To make the verb with "we" or 
+						"they." Do nothing. Its the same as the infinitive.
+						</font></span></p>
+						<p><span style="letter-spacing: 1px"><font face="Arial">
+						See table below:</font></span></p></td>
+							</tr>
+							<tr>
+								<td>
+						<table border="0" width="100%" cellspacing="0" cellpadding="12">
+							<tbody><tr>
+								<td bgcolor="#000000">
+								<span style="letter-spacing: 1px">
+								<font color="#FFFFFF" face="Arial">Infinitive</font></span></td>
+								<td bgcolor="#000000">
+								<span style="letter-spacing: 1px">
+								<font face="Arial">I</font></span></td>
+								<td bgcolor="#000000">
+								<span style="letter-spacing: 1px">
+								<font color="#FFFFFF" face="Arial">We</font></span></td>
+								<td bgcolor="#000000">
+								<span style="letter-spacing: 1px">
+								<font face="Arial" color="#FFFFFF">They</font></span></td>
+							</tr>
+							<tr>
+								<td bgcolor="#220022">
+								<span style="letter-spacing: 1px"><font face="Arial" color="#FFFFFF">
+								Redn</font></span></td>
+								<td bgcolor="#220022">
+								<span style="letter-spacing: 1px"><font face="Arial" color="#FFFFFF">
+								Ikh red</font></span></td>
+								<td bgcolor="#220022">
+								<span style="letter-spacing: 1px"><font face="Arial" color="#FFFFFF">
+								Mir redn</font></span></td>
+								<td bgcolor="#220022">
+								<span style="letter-spacing: 1px">
+								<font color="#FFFFFF" face="Arial">Zey redn</font></span></td>
+							</tr>
+							<tr>
+								<td bgcolor="#220022">
+								<span style="letter-spacing: 1px"><font face="Arial" color="#FFFFFF">
+								Veln</font></span></td>
+								<td bgcolor="#220022">
+								<span style="letter-spacing: 1px"><font face="Arial" color="#FFFFFF">
+								Ikh vel</font></span></td>
+								<td bgcolor="#220022">
+								<span style="letter-spacing: 1px"><font face="Arial" color="#FFFFFF">
+								Mir veln</font></span></td>
+								<td bgcolor="#220022">
+								<span style="letter-spacing: 1px">
+								<font color="#FFFFFF" face="Arial">Zey veln</font></span></td>
+							</tr>
+							</tbody></table>
+								</td>
+							</tr>
+						</tbody></table>
+						</td>
 					</tr>
 					</tbody></table>
 										</td>

@@ -267,15 +267,15 @@
 							<tr>
 								<td>
 						<span style="letter-spacing: 1px">
-						<font face="Arial" color="#FFFFFF">&nbsp;</font><font face="Wingdings" color="#FFFFFF">è
+						<font face="Arial" color="#FFFFFF">&nbsp;</font><font face="Wingdings" color="#FFFFFF">→
 						</font><font face="Arial" color="#FFFFFF">The infinitive 
 						of every word in Yiddish always end with the letter <b>
 						&quot;N&quot;</b> .
 						</font></span>
-						<p><span style="letter-spacing: 1px"><font face="Arial">&nbsp;</font><font face="Wingdings" color="#FFFFFF">è
+						<p><span style="letter-spacing: 1px"><font face="Arial">&nbsp;</font><font face="Wingdings" color="#FFFFFF">→
 						</font><font face="Arial">To make the verb with &quot;i&quot;: 
 						Remove the <b>&quot;N&quot;</b></font></span></p>
-						<p><span style="letter-spacing: 1px"><font face="Arial">&nbsp;</font><font face="Wingdings" color="#FFFFFF">è
+						<p><span style="letter-spacing: 1px"><font face="Arial">&nbsp;</font><font face="Wingdings" color="#FFFFFF">→
 						</font><font face="Arial">To make the verb with &quot;we&quot; or 
 						&quot;they.&quot; Do nothing. Its the same as the infinitive.
 						</font></span></p>
